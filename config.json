@@ -1,0 +1,16 @@
+{
+    "BotToken": "token here",
+    "BotStatusText": "{usersOnline} users online",
+    "Servers": [
+        {
+            "IP": "138.99.211.25",
+            "RconPort": 32338,
+            "AdminPassword": ""
+        },
+        {
+            "IP": "138.99.211.25",
+            "RconPort": 32338,
+            "AdminPassword": ""
+        }
+    ]
+}
