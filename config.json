@@ -3,8 +3,8 @@
     "BotStatusText": "2 Mapy / {usersOnline} Hráčů",
     "Servers": [
         {
-            "IP": "185.91.116.44",
-            "RconPort": 47110,
+            "IP": "185.91.116.30",
+            "RconPort": 47095,
             "AdminPassword": "R77YDCA3"
         },
         {
