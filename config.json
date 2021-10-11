@@ -1,16 +1,16 @@
 {
-    "BotToken": "ODM3MzUxMTM1NTY4MzMwNzYz.YIrSAw.7MKFKg1HhgOCSp30hkckuiqRgjk",
+    "BotToken": "",
     "BotStatusText": "2 Mapy / {usersOnline} Hráčů",
     "Servers": [
         {
-            "IP": "185.91.116.30",
-            "RconPort": 47095,
-            "AdminPassword": "R77YDCA3"
+            "IP": "",
+            "RconPort": ,
+            "AdminPassword": ""
         },
         {
-            "IP": "185.91.116.30",
-            "RconPort": 47060,
-            "AdminPassword": "R77YDCA3"
+            "IP": "",
+            "RconPort": ,
+            "AdminPassword": ""
         }
     ]
 }
